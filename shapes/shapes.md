@@ -16,5 +16,9 @@ n | Shape | Item | Picture
 14 | triangular, three-sided | tangerine treat | <img src="tangerine_treat.png" width="67%">
 
 
-peppermint pearl: <img src="peppermint_pearl.png" width="67%">
+# Non regular shape
+
+name | Picture
+--- | ---
+peppermint pearl | <img src="peppermint_pearl.png" width="67%">
   
