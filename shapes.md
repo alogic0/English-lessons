@@ -1,5 +1,5 @@
-n | Shape | Item
---- | --- | ---
+n | Shape | Item | Picture
+--- | --- | --- | ---
 1 | pyramid-shaped | brazilnut bonanza
 2 | spherical | lime limousine
 3 | a perfect cube | caramel castle
@@ -12,7 +12,7 @@ n | Shape | Item
 10 | round, with a serrated edge | orange delight
 11 | semi-circular, half-moon shaped | almond attraction
 12 | square, with an uneven surface |
-13 | cylindrical, log-shaped | hazelnut hat
+13 | cylindrical, log-shaped | hazelnut hat | ![hazelnut hat](hazelnut_hat.png)
 14 | triangular, three-sided | tangerine treat
 
 
