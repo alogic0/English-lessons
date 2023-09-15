@@ -16,16 +16,11 @@ n | Shape | Item | Picture
 14 | triangular, three-sided | tangerine treat | <img src="tangerine_treat.png" width="67%">
 
 
-<img src="strwberry_surprise.png" width="67%">  
+<img src="strawberry_surprise.png" width="67%">  
 
 <img src="lemon_lovely.png" width="67%">
-  
 
 <img src="marzipan_marvel.png" width="67%">
- 
 
-<img src="peppermint_pearl.png" width="67%"> 
-  
-
-<img src="almond_attraction.png" width="67%">
+<img src="peppermint_pearl.png" width="67%">
   
